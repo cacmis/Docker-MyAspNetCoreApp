@@ -1,0 +1,37 @@
+# Carpeta de salida de compilación
+bin/
+obj/
+
+# Archivos de configuración de Visual Studio
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Archivos de respaldo
+*~
+*.bak
+
+# Archivos de caché y análisis
+*.cache
+*.log
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.sdf
+*.opensdf
+*.suo
+*.sln.docstates
+*.bak
+*.swp
+*.user
+*.psess
+*.vsp
+*.vspx
+*.userprefs
+*.dll.refresh
+*.dotCover
+*.resharper
+*.resharper.user
